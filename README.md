@@ -49,11 +49,17 @@ Pattern #3
 and so on. 
 
 Pattern #4 
+
 0 
+
 01 
+
 010 
+
 0101 
+
 01010 
+
 and so on. 
 
 As a second challenge, create a program to output the patterns in reverse (from bottom row to top).
